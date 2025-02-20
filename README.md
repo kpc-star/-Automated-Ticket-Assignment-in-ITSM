@@ -9,6 +9,10 @@
 **Flow Designer (Optional):** Use Flow Designer to send notifications when the ticket assignment changes.
 
 **Solution Implementation:**
+
 **1. Business Rule Script:**
+
 Create a Business Rule that triggers on Insert or Update of an Incident record. This will check the category and subcategory of the incident and auto-assign it to the correct group.
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/e8e7447d-24d2-49df-bc22-6ecff56497b4" />
 
