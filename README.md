@@ -16,3 +16,7 @@ Create a Business Rule that triggers on Insert or Update of an Incident record. 
 
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/e8e7447d-24d2-49df-bc22-6ecff56497b4" />
 
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/0e60a1a2-49d5-46d3-88d2-36f0cccade85" />
+
+
+
