@@ -18,5 +18,13 @@ Create a Business Rule that triggers on Insert or Update of an Incident record. 
 
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/0e60a1a2-49d5-46d3-88d2-36f0cccade85" />
 
+**2. Assignment Rules:**
+
+Navigate to >assignment Rules 
+
+Create a new rule based on Category and Subcategory conditions.
+
+Configure the rule to assign the incident to the appropriate group.
+
 
 
